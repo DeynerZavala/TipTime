@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="TipCalculatorTests">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="calculateTip_20PercentNoRoundup()">
+        <State />
+      </entry>
+      <entry key="calculate_20_percent_tip()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
